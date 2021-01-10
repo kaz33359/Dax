@@ -2146,11 +2146,11 @@ body.js-page-out .pointer {
 
 /* Vertical logo */
 .header-logo.vertical {
-	width: 20px;
+	width: 30px;
 }
 
 .vertical .header-logo__img {
-	width: 20px;
+	width: 30px;
 	height: auto;
 }
 
@@ -5567,8 +5567,8 @@ button.mfp-close {
    ========================================================================== */
 
 	 .test{
-		 border-style: solid;
- 	 		border-color: rgba(210,1,32,0.2);
+		 	/* border-style: solid;
+ 	 		border-color: rgba(210,1,32,0.2); */
 			margin: 10px;
 			padding: 20px;
 			padding-bottom: 100px;
