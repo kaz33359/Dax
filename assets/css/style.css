@@ -5566,15 +5566,17 @@ button.mfp-close {
    15. Swiper sliders
    ========================================================================== */
 
-	 .test{
-		 	/* border-style: solid;
- 	 		border-color: rgba(210,1,32,0.2); */
-			margin: 10px;
-			padding: 20px;
+	 /* .test{
+		 	border-style: solid;
+ 	 		border-color: rgba(210,1,32,0.2);
+			margin: 2px;
+			padding-top: 20px;
+			padding-left: 5px;
+			padding-right: 5px;
 			padding-bottom: 100px;
-			/* padding: 100px; */
+			padding: 100px;
 			background-color: rgba(0,0,0, 0.3);
-	 }
+	 } */
 
 .one-page-slider {
 	height: 100vh;
