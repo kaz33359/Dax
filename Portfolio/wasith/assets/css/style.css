@@ -276,7 +276,7 @@ ol {
     transition: .3s;
 }
 .info-box .inner-profile-icons a:hover {
-    background: #ffffff;
+    background: hsl(0, 99%, 51%);
     color: #0F0F0F;
 }
 .info-box .inner-profile-icons a:before {
@@ -891,7 +891,7 @@ ol {
     transition: .3s;
 }
 .credential-area .credential-sidebar .social-links li a:hover {
-    background: #ffffff;
+    background: #ff0000;
     color: #0F0F0F;
 }
 .credential-area .credential-sidebar .theme-btn {

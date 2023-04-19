@@ -1,6 +1,6 @@
 (function ($) {
     'use strict';
-    var form = $('.contact-form form'),
+    var form = $('.contact-form-1 form'),
         message = $('.messenger-box-contact__msg'),
         form_data;
 
